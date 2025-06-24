@@ -8,11 +8,14 @@ h1 {
 }
 p {
     font-size: 20px;
+    font-family: cursive;
 }
 
-header {
-     border: solid 2px rgb(42, 122, 228);
-     margin: 20px;
+header{
+   border: 2px solid rgb(42, 122, 228);
+   padding: 20px;
+   font-size: 32px;
+   color: rgb(42, 122, 228);
 }
  
 }
